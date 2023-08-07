@@ -11,13 +11,13 @@ To get started with the data analysis and visualization, follow these steps:
 1. Clone this repository to your local machine using the following command:
 
    ```bash
-   git clone https://github.com/your-username/basic-data-analysis-with-ai.git
+   git clone https://github.com/yogeshumalkar11/Beginner-Data-Analysis-with-AI.git
    ```
 
 2. Change into the cloned directory:
 
    ```bash
-   cd basic-data-analysis-with-ai
+   cd Beginner-Data-Analysis-with-AI
    ```
 
 3. Create a new file named `secret.py` in the same directory.
@@ -51,7 +51,7 @@ To get started with the data analysis and visualization, follow these steps:
 3. Navigate to the directory where you have cloned the repository using the `cd` command:
 
    ```bash
-   cd path/to/basic-data-analysis-with-ai
+   cd path/to/Beginner-Data-Analysis-with-AI
    ```
 
 4. Run the Streamlit script using the following command:
@@ -64,7 +64,7 @@ To get started with the data analysis and visualization, follow these steps:
 
 ## Important Note
 
-- Do not upload your actual API key or sensitive information to any public repository. The `secret.py` file is added to the `.gitignore` file to prevent accidental uploads.
+- Do not upload your actual API key or sensitive information to any public repository. 
 
 - Keep the size of the CSV file below 200 MB to ensure efficient processing.
 
@@ -72,8 +72,5 @@ To get started with the data analysis and visualization, follow these steps:
 
 - This is a basic example and can be extended to perform more complex data analysis and visualization tasks using AI techniques and Streamlit.
 
-## License
-
-This project is licensed under the [MIT License](LICENSE).
 
 Feel free to customize and extend this project according to your needs. Happy analyzing and visualizing!
