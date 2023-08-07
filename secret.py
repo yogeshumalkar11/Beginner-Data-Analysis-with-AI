@@ -1,1 +1,1 @@
-openapi_key = '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'
+openapi_key = 'YOUR_API_KEY_HERE'
