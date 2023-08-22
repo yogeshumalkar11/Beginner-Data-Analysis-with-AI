@@ -1,5 +1,3 @@
-Sure, here's the updated version of the README with the `git clone` step included:
-
 # Basic Data Analysis with AI using Streamlit
 
 This repository provides a simple example of performing basic data analysis using AI and visualizing the results with Streamlit. The analysis is done through the `main.py` script, and you'll need to provide your API key in the `secret.py` file to access the necessary services.
